@@ -1,3 +1,3 @@
 # Vanilla JS
 
-Some descripton.
+Some descripton!
